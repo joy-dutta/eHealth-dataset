@@ -11,4 +11,4 @@ Data is the new fuel for every discipline in the modern world. To the best of th
 
 ## Dataset Description:
 
-For this dataset, we have considered pulse rate, breathing rate, distance traveled, speed, and Oxygen level in the blood as input features to predict the binary target class of cardiac arrest. Because of the unavailability of the IoMT data, we have created this synthetic IoMT dataset of two individuals with 120000 instances in each dataset. 
+For this dataset, we have considered pulse rate, breathing rate, distance traveled, speed, and oxygen level in the blood as input features (five) to predict single target class features, i.e., the binary prediction for cardiac arrest. Because of the unavailability of the IoMT data, we have created this synthetic IoMT dataset of two individuals with 120000 instances with six features in each dataset. 
