@@ -12,3 +12,8 @@ Data is the new fuel for every discipline in the modern world. To the best of th
 ## Dataset Description:
 
 For this dataset, we used the pulse rate, breathing rate, distance traveled, speed, and oxygen level in the blood as five input features to predict a single target class feature, i.e., the binary prediction for cardiac arrest. Because of the unavailability of the IoMT data, we have created this synthetic IoMT dataset of two individuals with 120000 instances with six features in each dataset. 
+
+### Cite this dataset
+If you are using this dataset for your own experiment or research, you need to refer to the below work by the author:
+
+#### J.Dutta and D. Puthal, "IoMT Synthetic Cardiac Arrest Dataset for eHealth with AI-based Validation," 2023 IEEE Computer Society Annual Symposium on VLSI (ISVLSI), Iguazu Falls, Brazil, 2023 [Accepted]
