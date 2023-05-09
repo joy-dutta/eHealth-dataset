@@ -34,6 +34,6 @@ IoMT Dataset exploration for Subject 1: [Click Here](https://github.com/joy-dutt
 
 
 ## Cite this dataset
-If you are using this dataset for your own experiment or research, you need to refer to the below work by the author:
+If you are using this dataset, kindly cite the article below:
 
-### J.Dutta and D. Puthal, "IoMT Synthetic Cardiac Arrest Dataset for eHealth with AI-based Validation," 2023 IEEE Computer Society Annual Symposium on VLSI (ISVLSI), Iguazu Falls, Brazil, 2023 [Accepted]
+### J.Dutta and D. Puthal, "IoMT Synthetic Cardiac Arrest Dataset for eHealth with AI-based Validation," 2023 IEEE Computer Society Annual Symposium on VLSI (ISVLSI), Iguazu Falls, Brazil, 2023.
